@@ -1,9 +1,12 @@
 # Introduction
 
 Controlling of SPI type LED strips, mostly made of API102 chips, using GPIO ZERO.
-Original version of the code was appeared here [(GitHub Issue: Add SPI output support for API102 LEDs)](https://github.com/gpiozero/gpiozero/issues/551)
+Original version of the code was appeared here
+[(GitHub Issue: Add SPI output support for API102 LEDs).](https://github.com/gpiozero/gpiozero/issues/551)
+And detailed information about the protocol can be found here
+[(Understanding the APA102 "Superled").](https://cpldcpu.wordpress.com/2014/11/30/understanding-the-apa102-superled/)
 
-# pinout
+# Pinout
 
 | Raspberry Pi   | SPI       | APA102 |
 |----------------|-----------|--------|
