@@ -1,8 +1,8 @@
 # Introduction
 
 Controlling of SPI type LED strips, mostly made of API102 chips, using GPIO ZERO.
-Original version of the code was appeared in [1](https://github.com/gpiozero/gpiozero/issues/551).
-And detailed information about the protocol can be found in [2](https://cpldcpu.wordpress.com/2014/11/30/understanding-the-apa102-superled/).
+Original version of the code was appeared in [[1]](https://github.com/gpiozero/gpiozero/issues/551).
+And detailed information about the protocol can be found in [[2]](https://cpldcpu.wordpress.com/2014/11/30/understanding-the-apa102-superled/).
 
 # Pinout
 
